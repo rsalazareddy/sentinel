@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "963805576197",
+    "project_id": "sentinel-7079d",
+    "storage_bucket": "sentinel-7079d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963805576197:android:e124e437cef8b285a4306c",
+        "android_client_info": {
+          "package_name": "com.sentinel.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963805576197-r2ilb5v5837t5sehnh5ss5blhc7ivoik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP7jVda0hZxABqa5j5vbxKMyi0kSurnYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963805576197-r2ilb5v5837t5sehnh5ss5blhc7ivoik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
