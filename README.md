@@ -8,5 +8,5 @@ Sentinel was originally intended to be a straightforward science fair project on
 
 ## Which technologies is Sentinel using?
 
-- Due to its java-like syntax and easy learning curve, **Dart is used as the primary programming language.
+- Due to its java-like syntax and easy learning curve, **Dart is used as the primary programming language.**
 - **Flutter**, chosen as the primary framework for its adaptability.
