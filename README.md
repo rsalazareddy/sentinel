@@ -23,7 +23,7 @@ Sentinel is not a professional project an is not intended to be mantained as a p
 
 ## What software was used during the process?
 
-- [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/) // sometimes changed with [IntelliJ Idea](https://www.jetbrains.com/idea/) by JetBrains, for a change of scenery
 - [Figma](https://www.figma.com/)
 - [Android Studio](https://developer.android.com/studio)
 
