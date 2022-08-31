@@ -27,5 +27,7 @@ This project is ideal for beginning programmers because it is built on the found
 
 - [Build Full Stack WhatsApp Clone | Flutter | Firebase | Flutter Chat App](https://www.youtube.com/yqwfP2vXWJQ) by Rivaan Ranawat
 - [Flutter Phone Authentication | Implementing Phone Auth Using Flutter & Firebase](https://www.youtube.com/watch?v=PEUUYOQ2Ixo) by Lazy TechNo
-- [Flutter UI Design](https://www.youtube.com/watch?v=zTTP8XBR6fI&list=PLf-j0Hs0PF3uxzMCFLlfJ9W3hRxLzHPGX) (Playlist) by Afgprogrammer
+- [Flutter UI Design Playlist](https://www.youtube.com/watch?v=zTTP8XBR6fI&list=PLf-j0Hs0PF3uxzMCFLlfJ9W3hRxLzHPGX) by Afgprogrammer
  Afgprogrammer
+- [Figma Mobile App Design Tutorial](https://www.youtube.com/watch?v=PeGfX7W1mJk) by Building Amazing Things
+- [The Laws of UX - 19 Psychological Design Principles](https://www.youtube.com/watch?v=fYs2Mdyasuc) by Joseph from [LearnSketch.com](learnsketch.com)
