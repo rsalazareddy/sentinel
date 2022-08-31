@@ -1,3 +1,7 @@
 # Sentinel
 
-Sentinel is a social media that aims to innovate while still mantaining popular features in most similar products. The core idea of Sentinel is bringing an awesome user experience and make **every message count.**
+Sentinel is a social networking platform that seeks to innovate while maintaining well-liked elements seen in most comparable platforms. Sentinel's fundamental concept is to provide an amazing user experience and make **every message count.** 
+
+## What powered Sentinel?
+
+Sentinel was originally intended to be a straightforward science fair project on studying how social media functions. However, the research revealed intriguing facts that, when coupled with a stoking passion, spawned a challenge: building a social media for nothing, with few resources, using a single environment, and challenging a single developer to the limits of his abilities
