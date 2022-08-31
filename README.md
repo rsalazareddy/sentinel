@@ -25,4 +25,4 @@ Sentinel is not a professional project an is not intended to be mantained as a p
 
 This project is ideal for beginning programmers because it is built on the foundation of other developers' works and personal expertise (mostly on the Frontend). Here are some videos and websites that can inspire you or help you better understand Sentinel or create your own project to enter the Dart/Flutter universe. 
 
-[GitHub Pages](https://www.youtube.com/watch?v=yqwfP2vXWJQ)
+[Build Full Stack WhatsApp Clone | Flutter | Firebase | Flutter Chat App](https://www.youtube.com/watch?v=yqwfP2vXWJQ) by Rivaan Ranawat
