@@ -21,6 +21,11 @@ Sentinel was originally intended to be a straightforward science fair project on
 
 Sentinel is not a professional project an is not intended to be mantained as a popular social media in a near future. The reader is persuaded to expand the project further so that they can showcase their talents on stage in true Sentinel fashion.
 
+## What software was used during the process?
+
+- [Microsoft Visual Studio Code](https://code.visualstudio.com/)
+- [Figma](https://www.figma.com/)
+
 ## Understanding the Code
 
 This project is ideal for beginning programmers because it is built on the foundation of other developers' works and personal expertise (mostly on the Frontend). Here are some videos and websites that can inspire you or help you better understand Sentinel or create your own project to enter the Dart/Flutter universe. 
