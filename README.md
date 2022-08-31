@@ -25,6 +25,7 @@ Sentinel is not a professional project an is not intended to be mantained as a p
 
 - [Microsoft Visual Studio Code](https://code.visualstudio.com/)
 - [Figma](https://www.figma.com/)
+- [Android Studio](https://developer.android.com/studio)
 
 ## Understanding the Code
 
