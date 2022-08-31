@@ -10,3 +10,8 @@ Sentinel was originally intended to be a straightforward science fair project on
 
 - Due to its java-like syntax and easy learning curve, **Dart is used as the primary programming language.**
 - **Flutter**, chosen as the primary framework for its adaptability.
+
+## Contributing
+
+Sentinel is not a professional project an is not intended to be mantained as a popular social media in a near future. The reader is persuaded to expand the project further so that they can showcase their talents on stage in true Sentinel fashion.
+
