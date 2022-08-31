@@ -1,3 +1,6 @@
+![799px-Google-flutter-logo](https://user-images.githubusercontent.com/110001105/187598739-7bfa3527-89b6-44fb-83df-cedf582240da.png)
+
+
 # Sentinel
 
 Sentinel is a social networking platform that seeks to innovate while maintaining well-liked elements seen in most comparable platforms. Sentinel's fundamental concept is to provide an amazing user experience and make **every message count.** 
