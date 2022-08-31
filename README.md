@@ -1,7 +1,7 @@
 ![FLUTTER](https://user-images.githubusercontent.com/110001105/187599133-e459312b-4792-44f0-adfc-882afac7829d.png)
 
 
-# Sentinel
+# What is Sentinel?
 
 Sentinel is a social networking platform that seeks to innovate while maintaining well-liked elements seen in most comparable platforms. Sentinel's fundamental concept is to provide an amazing user experience and make **every message count.** 
 
