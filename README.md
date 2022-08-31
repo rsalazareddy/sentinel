@@ -10,6 +10,11 @@ Sentinel was originally intended to be a straightforward science fair project on
 
 - Due to its java-like syntax and easy learning curve, **Dart is used as the primary programming language.**
 - **Flutter**, chosen as the primary framework for its adaptability.
+- **Firebase**, for the backend due to is compatiblity, also uses other products from it like:
+- - Auth
+- - Firestore
+- - 2FA
+- - Analytics
 
 ## Contributing
 
